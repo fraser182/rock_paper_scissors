@@ -5,7 +5,7 @@ require_relative ('../models/game')
 class TestGame < MiniTest::Test
 
   def setup
-    @game1 = Game.new('person1', 'person2')
+    @game1 = Game.new('choice1', 'choice2')
   end
 
   def test_check_rock_vs_scissors

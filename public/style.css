@@ -2,20 +2,19 @@ body{
 text-align: center;
   font-family: Roboto;
 background-color: rgb(12, 215, 215);
+
 }
 
-ul {
+li {
 list-style-type: none;
 
 }
 
 a:link {
-    text-decoration: none;
     color: white;
 }
 
 a:visited {
-    text-decoration: none;
     color: white;
 }
 
