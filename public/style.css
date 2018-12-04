@@ -1,27 +1,27 @@
 body{
-text-align: center;
+  text-align: center;
   font-family: Roboto;
-background-color: rgb(12, 215, 215);
+  background-color: rgb(12, 215, 215);
 
 }
 
 li {
-list-style-type: none;
+  list-style-type: none;
 
 }
 
 a:link {
-    color: white;
+  color: white;
 }
 
 a:visited {
-    color: white;
+  color: white;
 }
 
 a:hover {
-    color: black;
+  color: black;
 }
 
 a:active {
-    color: black;
+  color: black;
 }
