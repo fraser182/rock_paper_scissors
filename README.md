@@ -8,6 +8,12 @@ Create a simple sinatra app to allow the user to play rock, paper, scissors in t
 
 - Next, create a `models` directory for your game logic class e.g. 'Game' and put all of the logic in there - there shouldn't be any logic left in the controller!
 
+### Setup
+
+```
+ruby game_controller.rb
+```
+
 ### Extensions:
 
 - Add an ERB view file for returning the result of the game, rather than just sending a string.
